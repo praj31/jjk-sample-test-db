@@ -29,3 +29,18 @@ The `--watch` flag watches the file for changes and reflects it inside the file 
 
 4. Open your browser and visit http://localhost:5000/users to see all the users data. Please replace the port number with the one you specified if done so.
 5. Open your browser and visit http://localhost:5000/posts to see all the posts data.
+
+
+## API Endpoints
+|METHOD  |ENDPOINT    |DESCRIPTION                   |
+|:-------|:-----------|:-----------------------------|
+|GET     |/users      |get all users                 |
+|GET     |/posts      |get all posts                 |
+|GET     |/users/:id  |get a particular user by ID   |  
+|GET     |/posts/:id  |get a particular post by ID   |    
+|POST    |/users      |add a new user                |
+|POST    |/posts      |add a new post                |
+|PUT     |/users/:id  |update a particular user by ID|  
+|PUT     |/posts/:id  |update a particular post by ID|  
+|DELETE  |/users/:id  |delete a particular user by ID|  
+|DELETE  |/posts/:id  |delete a particular post by ID|   
