@@ -1,0 +1,87 @@
+{
+    "users": [
+        {
+            "id": "6apazF2DU3ya",
+            "username": "satorugojo",
+            "email": "satorugojo@gmail.com",
+            "password": "thestrongest",
+            "name": {
+                "firstname": "Satoru",
+                "lastname": "Gojo"
+            },
+            "cursed-technique": ["Six Eyes", "Red", "Blue", "Purple Void"],
+            "domain-expansion": "Infinite Void"
+        },
+        {
+            "id": "34jgmwxMqCVh",
+            "username": "sugurugeto",
+            "email": "sugurugeto@gmail.com",
+            "password": "brainless",
+            "name": {
+                "firstname": "Suguru",
+                "lastname": "Geto"
+            },
+            "cursed-technique": [
+                "Maximum:Uzumaki",
+                "Cursed Spirit Manipulation"
+            ],
+            "domain-expansion": "Unknown"
+        },
+        {
+            "id": "6kqnFRBfXZ8b",
+            "username": "kugisakinobara",
+            "email": "knobara@gmail.com",
+            "password": "girlpower",
+            "name": {
+                "firstname": "Kugisaki",
+                "lastname": "Nobara"
+            },
+            "cursed-technique": ["Resonance", "Hairpin"],
+            "domain-expansion": "Unknown"
+        },
+        {
+            "id": "Khq8Gr4BwXWR",
+            "username": "megumifushiguro",
+            "email": "fushimegumi@gmail.com",
+            "password": "sacredtreasureswing",
+            "name": {
+                "firstname": "Megumi",
+                "lastname": "Fushiguro (Zenin)"
+            },
+            "cursed-technique": ["Shikigami User"],
+            "domain-expansion": "Chimera Shadow Garden"
+        }
+    ],
+    "posts": [
+        {
+            "id": "XzC37Vausqjh",
+            "userid": "6apazF2DU3ya",
+            "title": "How to lay your own domain?",
+            "description": "Domain expansion is the pinnacle of all jujutsu techniques. A stronger domain will overwhelm the weaker one in a domain battle."
+        },
+        {
+            "id": "x5ndMuknqjTx",
+            "userid": "6apazF2DU3ya",
+            "title": "Feeling sad about Yuuji's departure...",
+            "description": "My beloved student Yuuji lost his life during fight with a special grade curse. Everybody has to learn to become strong. At least, Nanamin is with me. And Utahime."
+        },
+        {
+            "id": "FYuH4TxgJayB",
+            "userid": "34jgmwxMqCVh",
+            "title": "Night of Demon Parade",
+            "description": "I will unleash a hundred curses using my Maximum Uzumaki...a Night of Demon Parade on Shinjuku and Kyoto. Let's curse each other. Satoru...I hope you are ready my best friend!"
+        },
+        {
+            "id": "2gBVbNWwr3an",
+            "userid": "Khq8Gr4BwXWR",
+            "title": "Do I have talent to beat special grades?",
+            "description": "Why did Sukuna say that? What is my talent? Gojo Sensei please help me discover my talent. Maki-san I think I can do it. I can become strong."
+        },
+        {
+            "id": "eCpKY6c5Q9ux",
+            "userid": "Khq8Gr4BwXWR",
+            "title": "Feeling bored...might as well train a Shikigami.",
+            "description": "When I am bored, me and my trained Shikigamis go into an exorcising ritual to train more Shikigamis. I need to tame all 10. Nobody has been able to do so...it's very exciting. I don't know who my father is though."
+        }
+    ]
+}
